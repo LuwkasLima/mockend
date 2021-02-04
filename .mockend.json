@@ -13,6 +13,6 @@
   "Dipper": {
     "size": "int",
     "style": "string",
-    "price": "float"
+    "price": "int"
   }
 }
