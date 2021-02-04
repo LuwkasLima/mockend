@@ -10,7 +10,7 @@
     "body": "string",
     "post": "Post"
   }
-  "Dippers":{
+  "Dippers": {
     "size": "int",
     "style": "string",
     "price": "float",
